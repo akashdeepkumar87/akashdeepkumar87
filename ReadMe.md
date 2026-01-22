@@ -48,7 +48,8 @@
 - Streamlit-based web app for daily diet and walking guidance  
 - Designed for easy accessibility and safe input handling  
 
-🔗 Live App: https://trackdiabities.streamlit.app  
+🔗 Live App: https://daily-sugar-guidance.streamlit.app
+
 
 ---
 
