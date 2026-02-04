@@ -8,7 +8,8 @@
 🌱 Currently learning advanced machine learning techniques and model interpretability  
 💬 Ask me about Python, Machine Learning, SHAP, and Streamlit  
 ⚡ Fun fact: I enjoy converting complex data problems into simple, usable solutions  
-📄 Published Research Paper on Explainable AI-Based Lymphography Disease Prediction (IEEE Xplore, 2025)
+📄 Published Research Paper: Explainable AI for Lymphography Prediction – A SHAP-Based Approach (IEEE Xplore, 2025)
+
 
 
 ---
